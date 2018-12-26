@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Agriculture</string>
+    <string name="CountryBirth">Name Of State</string>
+    <string name="CropName">Name Of Crop</string>
+    <string name="cropId">Crop ID</string>
+    <string name="crop">Crop</string>
+    <string name="cropVariety">Crop Variety</string>
+    <string name="CropStateId">State Id</string>
+    <string name="CropStateName">State Name</string>
+</resources>
